@@ -1,4 +1,5 @@
 spawncamping-octo-hipster
 =========================
 
-Dummy repo for GitHub training
+Dumby repo for GitHub training
+e
